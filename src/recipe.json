@@ -1,0 +1,381 @@
+{
+    "x":[
+
+         {
+            "id":"1",
+            "img":"https://www.melskitchencafe.com/wp-content/uploads/2023/01/updated-lava-cakes7.jpg",
+            "name":"Chocolate Lava Cake",
+            "mood":"happy",
+            "time":" Time :30 mins",
+            "details": [
+                "Ingredients :",
+                "Dark chocolate - 2 tbsp (chopped)",
+                "Butter - 1 tbsp",
+                "All-purpose flour (Maida) - 2 tbsp",
+                "Powdered sugar - 2 tbsp",
+                "Cocoa powder - 1 tbsp",
+                "Milk - 3 tbsp",
+                "Baking powder - 1/4 tbsp",
+                "Vanilla essence - 1/4 tbsp"
+            ],
+            "publisher": "https://www.melskitchencafe.com",
+            "url": "https://www.melskitchencafe.com/chocolate-lava-cakes/"
+        },
+        {
+            "id":"2",
+            "img":"https://www.rainbownourishments.com/wp-content/uploads/2021/02/vegan-strawberry-cheesecake-unbaked.jpg",
+            "name":"Strawberry Cheesecake",
+            "mood":"happy",
+            "time":" Time : 45 mins",
+            "details": [
+                "Ingredients :",
+                    "Cream cheese - 1/2 cup",
+                  "Fresh strawberries - 1/2 cup (crushed)",
+                   " Digestive biscuits - 6 (crushed)",
+                   " Butter  - 2 tbsp",
+                   " Powdered sugar  -3 tbsp",
+                   " Fresh cream - 1/4 cup",
+                    "Vanilla essence - 1/4 tsp"
+            ],
+            "publisher": "https://www.rainbownourishments.com",
+            "url": "https://www.rainbownourishments.com/vegan-strawberry-cheesecake/"
+        },
+        {
+            "id":"3",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0pMuny_3Qf_woYgUiCJ2VxDraONT1xPd6Nw&s",
+            "name":"Vanilla Ice Cream Sundae",
+            "mood":"happy",
+            "time":" Time : 10 mins" ,
+            "details": [
+               " Ingredients:" ,
+                   " Vanilla ice cream -2 scoops",
+                   " Chocolate syrup -  2 tbsp",
+                    "Chopped nuts - 1 tbsp",
+                  "  Cherries - 2",
+                 "   Wafer biscuits - 2"
+            ],
+            "publisher": "https://www.allrecipes.com",
+         "url": "https://www.allrecipes.com/search/results/?search=vanilla+ice+cream+sundae"
+        },
+        {
+            "id":"4",
+            "img":"https://eatbetterpasta.com/cdn/shop/articles/sourdough-radiatori-rainbow-pasta-546780.webp?v=1741975745",
+             "name":"Rainbow Veggie Pasta",
+            "mood":"happy",
+            "time":" Time : 30 mins" 
+,
+            "details": [
+              "  Ingredients:",
+                    "Pasta - 1 cup (boiled)",
+                  "  Bell peppers - 1/2 cup (sliced)",
+                   " Sweet corn -  1/4 cup",
+                    "Onion  - 1 small",
+                    "Garlic - 1 tsp (chopped)",
+                   " Olive oil - 1 tbsp",
+                   " Salt - to taste",
+                    "Mixed herbs - 1/2  tsp",
+                  "  Cheese - 2 tbsp"
+            ],
+            "publisher": "https://eatbetterpasta.com",
+            "url": "https://eatbetterpasta.com/blogs/recipes"
+        },
+        {
+            "id":"5",
+            "img":"https://www.shutterstock.com/image-photo/rich-brownie-topped-scoop-vanilla-600nw-2627792239.jpg",
+             "name":"brownie with hot chocolate sauce",
+            "mood":"happy",
+            "time":" Time : 45 mins" ,
+            "details": [
+              "  Ingredients:",
+                        "Dark chocolate -  3 tbsp",
+                        "Butter - 2 tbsp",
+                      "  Maida - 3 tbsp",
+                      "  Powdered sugar - 3 tbsp",
+                       " Cocoa powder - 1 tbsp",
+                       " Milk - 4 tbsp",
+                       " Baking powder - 1/4  tsp",
+                       " Chocolate sauce - 2 tbsp"
+            ],
+             "publisher": "https://www.bbcgoodfood.com",
+             "url": "https://www.bbcgoodfood.com/recipes/best-ever-brownies"
+
+        },
+        {
+            "id":"6",
+            "img":"https://www.daisybeet.com/wp-content/uploads/2023/05/Tomato-Basil-Whipped-Cottage-Cheese-Toast-10.jpg",
+             "name":"Cheese Toast",
+            "mood":"sad",
+            "time":" Time : 7 mins" ,
+           "details":[
+         "   Ingredients:",
+              "  Bread slices - 2",
+               " Butter - 1 tbsp",
+                "Grated cheese - 1/4 cup",
+              "  Oregano - 1/4 tsp",
+              "  Chilli flakes - 1/4 tsp"
+           ],
+           "publisher": "https://www.daisybeet.com",
+            "url": "https://www.daisybeet.com/whipped-cottage-cheese-toast/"
+        },
+        {
+            "id":"7",
+            "img":"https://khaanpann.com/wp-content/uploads/2025/09/Veg-Masala-Maggi.png",
+             "name":"Masala Maggi",
+            "mood":"sad",
+            "time":" Time : 10 mins" ,
+            "details":[
+              "  Ingredients:",
+                    "Maggi noodles - 1 packet",
+                  "  Water - 1 (1/4)cups",
+                   " Onion - 2 tbsp (chopped)",
+                   " Tomato - 2 tbsp (chopped)",
+                    "Oil - 1 tsp",
+                    "Maggi tastemaker - 1 packet"
+            ],
+             "publisher": "https://www.vegrecipesofindia.com",
+             "url": "https://www.vegrecipesofindia.com/masala-maggi-recipe/"
+
+        },
+        {
+            "id":"8",
+            "img":"https://mytastycurry.com/wp-content/uploads/2019/07/Paneer-Masala-Sandwich.jpg",
+             "name":"Paneer Sandwich",
+            "mood":"sad",
+            "time":" Time : 10 mins" ,
+            "details":[
+               " Ingredients:",
+                  "  Bread slices - 2",
+                  "  Paneer - 1/2 cup (crumbled)",
+                  "  Onion - 1 tbsp",
+                   " Capsicum - 1 tbsp",
+                     " Butter - 1 tbsp",
+                    "Salt - to taste"
+            ],
+             "publisher": "https://mytastycurry.com",
+            "url": "https://mytastycurry.com/paneer-sandwich-recipe/"
+        },
+        {
+            "id":"9",
+            "img":"https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/mug_cake_31245_16x9.jpg",
+             "name":"Chocolate Mug Cake",
+            "mood":"sad",
+            "time":" Time : 5 mins", 
+            "details":[
+                "Ingredients:",
+                 "   Maida - 4 tbsp",
+                    "Sugar - 2 tbsp",
+                   " Cocoa powder - 1 tbsp",
+                  "  Milk - 3 tbsp",
+                    "Oil - 2 tbsp",
+                  "  Baking powder - 1/4 tsp"
+            ],
+            "publisher": "https://www.bbc.co.uk/food",
+            "url": "https://www.bbc.co.uk/food/recipes/mug_cake_31245"
+        },
+        {
+            "id":"10",
+            "img":"https://www.budgetbytes.com/wp-content/uploads/2023/12/air-fryer-french-fries-horizontal-hero-web-ready-1.jpg",
+             "name":"French Fries (Air-fryer)",
+            "mood":"sad",
+            "time":" Time : 12 mins" ,
+            "details":[
+               " Ingredients:",
+                  "  Potatoes - 2 medium",
+                   " Olive oil - 1 tbsp",
+                  "  Salt - 1/2 tsp",
+                   " Black pepper - 1/4 tsp"
+                    ],
+            "publisher": "https://www.budgetbytes.com",
+            "url": "https://www.budgetbytes.com/air-fryer-french-fries/"
+
+        },
+        {
+            "id":"11",
+            "img":"https://myquietkitchen.com/wp-content/uploads/2022/09/instant-pot-vegetable-soup-2.jpg",
+             "name":"Vegetable Soup (Instant)",
+            "mood":"tired",
+            "time":" Time : 10 mins",
+            "details":[
+                "Ingredients:",
+                "    Mixed vegetables - 1 cup",
+                 "   Water - 2 cups",
+                    "Salt - 1/2 tsp",
+                   " Pepper - 1/4 tsp",
+                    "Butter - 1 tsp"
+                ],
+            "publisher": "https://www.indianhealthyrecipes.com",
+            "url": "https://www.indianhealthyrecipes.com/vegetable-soup-recipe/" 
+
+        },
+         {
+            "id":"12",
+            "img":"https://s.lightorangebean.com/media/20240914163050/Vibrant-Beet-Veggie-Wrap_-done.png",
+             "name":"Veg Wrap",
+            "mood":"tired",
+            "time":" Time : 10 mins" ,
+            "details":[
+               " Ingredients:",
+                    "Roti/Tortilla - 1",
+                    "Boiled veggies - 1/2 cup",
+                    "Mayonnaise - 1 tbsp",
+                    "Salt - to taste"
+             ]   ,
+            "publisher": "https://www.lightorangebean.com",
+            "url": "https://www.lightorangebean.com/veggie-wrap/"
+
+        },
+         {
+            "id":"13",
+            "img":"https://m.media-amazon.com/images/I/61ZqCAlJgtL.jpg",
+             "name":"Masala Oats",
+            "mood":"tired",
+            "time":" Time : 8 mins" ,
+            "details":[
+               " Ingredients:",
+                   " Oats - 1/2 cup",
+                  "  Water - 1 (1/2) cups",
+                   " Onion  - 1 tbsp",
+                    "Masala - 1/2 tsp",
+                "    Salt - to taste"
+            ],
+              "publisher": "https://www.vegrecipesofindia.com",
+            "url": "https://www.vegrecipesofindia.com/masala-oats-recipe/"
+
+        },
+
+         {
+            "id":"14",
+            "img":"https://www.ambitiouskitchen.com/wp-content/uploads/2021/04/Chocolate-Peanut-Butter-Banana-Smoothie-5.jpg",
+             "name":"Banana Peanut Butter Shake",
+            "mood":"tired",
+            "time":" Time : 5 mins" ,
+            "details":[
+                "Ingredients:",
+                   " Banana - 1",
+                   " Peanut butter - 1 tbsp",
+                  "  Milk - 1 cup",
+                  "  Honey - 1 tsp"
+            ],
+             "publisher": "https://www.ambitiouskitchen.com",
+            "url": "https://www.ambitiouskitchen.com/peanut-butter-banana-smoothie/"
+
+        },
+
+         {
+            "id":"15",
+            "img":"https://www.palatesdesire.com/wp-content/uploads/2022/04/curd-rice-recipe-image@palates-desire.jpg",
+             "name":"Curd Rice",
+            "mood":"tired",
+            "time":" Time : 5 mins",
+            "details":[
+             "   Ingredients:",
+                   " Cooked rice - 1 cup",
+                  "  Curd - 1/2 cup",
+                    "Salt - to taste",
+                   " Mustard seeds - 1/4 tsp"
+            ],
+             "publisher": "https://www.palatesdesire.com",
+             "url": "https://www.palatesdesire.com/curd-rice-recipe/"    
+
+        },
+
+        {
+            "id":"16",
+            "img":"https://cdn77-s3.lazycatkitchen.com/wp-content/uploads/2018/04/vegan-pesto-pasta-bowl-800x1200.jpg",
+             "name":"Pesto Pasta",
+            "mood":"energetic",
+            "time":" Time : 18 mins" ,
+            "details":[
+            "    Ingredients:",
+                    "Pasta - 1 cup",
+                   " Pesto sauce - 2 tbsp",
+                    "Olive oil - 1 tbsp",
+                 "   Garlic - 1 tsp",
+                    "Cheese - 2 tbsp"
+            ],
+             "publisher": "https://www.lazycatkitchen.com",
+            "url": "https://www.lazycatkitchen.com/vegan-pesto-pasta/"
+            
+        },
+        {
+            "id":"17",
+            "img":"https://images.arla.com/recordid/8278BB1E-414F-4588-B919477EABFBD21B/picture.jpg",
+             "name":"Protein Sushi Bowl",
+            "mood":"energetic",
+            "time":" Time : 20 mins" ,
+            "details":[
+               " Ingredients:",
+                    "Cooked rice - 1 cup",
+                    "Paneer/Tofu - 1/2 cup",
+                    "Cucumber - 1/4 cup",
+                    "Soy sauce - 1 tbsp",
+                    "Sesame seeds - 1/2 tsp"
+            ],
+         "publisher": "https://www.arlafoods.co.uk",
+         "url": "https://www.arlafoods.co.uk/recipes/sushi-bowl/"
+
+        },
+        {
+            "id":"18",
+            "img":"https://www.simplehealthykitchen.com/wp-content/uploads/2015/12/green-smoothie-bowl-featured-500x453.jpg",
+             "name":"Green Smoothie Bowl",
+            "mood":"energetic",
+            "time":" Time : 20 mins" ,
+            "details":[
+               " Ingredients:",
+                  "  Spinach - 1 cup",
+                   " Banana - 1",
+                   " Apple - 1/2 ",
+                   " Milk/Almond milk - 1 cup"
+            ],
+            "publisher": "https://www.simplehealthykitchen.com",
+            "url": "https://www.simplehealthykitchen.com/green-smoothie-bowl/"
+
+        },
+        {
+            "id":"19",
+            "img":"https://mallorythedietitian.com/wp-content/uploads/2024/05/smashed-avocado-toast-with-egg-and-red-pepper-flakes.jpg",
+             "name":"Avocado Egg Toast",
+            "mood":"energetic",
+            "time":" Time : 12 mins",
+            "details":[
+            
+                   " Ingredients:",
+                        "Bread - 1 slice",
+                        "Avocado - 1/2",
+                      "  Boiled egg - 1",
+                       " Salt & pepper - to taste"
+            ] ,
+            "publisher": "https://mallorythedietitian.com",
+             "url": "https://mallorythedietitian.com/avocado-egg-toast/"
+
+        },
+        {
+            "id":"20",
+            "img":"https://images.ctfassets.net/0dkgxhks0leg/3vz5fVW2u7rhgs3vXnqXsb/3bad1d403e089e1fb1fcc6eb69a9abb5/red_quinoa_power_bfast_bowl.jpg",
+             "name":"Quinoa Power Bowl",
+            "mood":"energetic",
+            "time":" Time : 22 mins" ,
+            "details":[
+               " Ingredients:",
+                    "Quinoa (raw) - 1/2 cup",
+                    "Water - 1 cup",
+                    "Chickpeas (boiled) - 1/2 cup",
+                    "Cucumber (chopped) - 1/4 cup",
+                    "Tomato (chopped) - 1/4 cup",
+                    "Bell pepper (chopped) - 1/4 cup",
+                    "Avocado (sliced) - 1/2",
+                    "Olive oil - 1 tbsp",
+                    "Lemon juice - 1 tbsp",
+                    "Salt - 1/4 tsp",
+                    "Black pepper - 1/4 tsp",
+                    "Roasted seeds (pumpkin/sunflower) - 1 tbsp",
+                    "Fresh coriander - 1 tbsp (chopped)"
+            ],
+            "publisher": "https://www.bbcgoodfood.com",
+            "url": "https://www.bbcgoodfood.com/recipes/quinoa-power-bowl"
+        }
+
+
+    ]
+}

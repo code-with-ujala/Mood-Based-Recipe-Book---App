@@ -1,0 +1,455 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    width: 100%;
+    height: 90px;
+   background-color: #1f2a44;
+    box-shadow: 0px 2px 5px rgba(100, 99 , 99, 0.4);;
+  }
+   .header .a{
+    display: flex;  
+   justify-content: flex-end;        /* pura ul ko right side le jayega*/
+    list-style: none;
+    margin: 0; 
+    padding: 18px; 
+    
+  }
+  .header .a li {
+  margin-left: 8.5%;           /*har list item ke beech me gap*/
+  padding: 0;
+  
+}
+.header .a li:hover{
+    /* background-color:rgba(116, 109, 109, 0.934); 
+  text-decoration: underline; */
+  color: #7fb3d5;
+  border-bottom: 2px solid #7fb3d5;
+} 
+.header .a li {
+   text-decoration: none;  
+  font-size: xx-large;
+  font-weight: 900;
+  color:#FFFFFF;
+  transition: all 0.3s ease;
+} 
+.outer-box{
+    position: relative;
+}
+ .outer-box img{
+    width: 100%;
+    height: 890px;  
+}
+.outer-box h1{
+    position: absolute;
+    top: 23%;
+    left: 9%;
+    font-size: 76px;
+   font-weight: bolder;
+   font-style: italic;
+  color: #1f2a44;
+    /* transform: translate(-50% , -50%); */
+}
+.outer-box h3{
+    position: absolute;
+    top: 55%;
+    left: 9%;
+    font-size: 29px;
+    font-weight: 300;
+   font-style: italic;
+    color: #8491aa;
+}
+.outer-box button{
+    position: absolute;
+    top: 80%;
+    left: 78%;
+    width: 76px;
+    height: 47px;
+    font-size: x-large;
+    font-style: italic;
+     border-radius: 10px;
+     cursor: pointer;
+      border: none;
+       transition: all 0.3s ease;
+       color: #7fb3d5;
+}
+
+.outer-box button:hover{
+    background-color: #1f2a44;
+    color: #ffffff;
+    box-shadow: 0 6px 18px rgba(31 , 42 , 68, 0.35);
+
+}
+.container{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+   background-color: #eef6fff5; 
+  /* background-color: #276996;  */
+  position: relative;
+  gap: 29px;
+}
+ .container .card-1{
+  width: 230px;
+  height: 400px;
+  padding: 30px;
+ background: rgba(210, 195, 235, 0.55);
+  backdrop-filter: blur(10px);
+  border-radius: 22px;
+  text-align: center;
+  box-shadow: 0 10px 25px rgba(0,0, 0,0.12);
+  transition: all 0.4s ease;
+}
+ .container .card-1:hover{
+  transform: translateY(-12px) scale(1.03);
+   box-shadow: 0 20px 40px rgba(90, 160, 255, 0.35);
+}
+.container .card-1 .emoji1 {
+  font-size: 52px;
+  margin-bottom: 15px;
+  transition: transform 0.4s ease;
+  height: 70%;
+  width: 230px;
+  border-radius: 100px;
+  
+}
+ .container .card-1:hover .emoji1 {
+  transform: rotate(8deg) scale(1.15);
+}
+
+.container h2{
+  position: absolute;
+  color: #1F2A44;
+  font-size: 35px;
+   top: 8%;            /* value kam/badha sakti ho */
+  margin: 0;
+  font-style: italic;
+}
+ .container .card-1 button {
+  background-color: #C3AED6;
+  color: #1F2A44;
+  border: none;
+  padding: 10px 24px;
+  border-radius: 25px;
+  font-size: 15px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-style: italic;
+  font-weight: bolder;
+}
+
+/* Button hover */
+ .container .card-1 button:hover {
+  background-color: #1F2A44;
+  color: #FFFFFF;
+}
+
+/*-  --- card-2-*/
+
+.container .card-2{
+  width: 230px;
+  height: 400px;
+  padding: 30px;
+ background: rgba(210, 195, 235, 0.55);
+  backdrop-filter: blur(10px);
+  border-radius: 22px;
+  text-align: center;
+  box-shadow: 0 10px 25px rgba(0,0, 0,0.12);
+  transition: all 0.4s ease;
+}
+ .container .card-2:hover{
+  transform: translateY(-12px) scale(1.03);
+   box-shadow: 0 20px 40px rgba(90, 160, 255, 0.35);
+}
+.container .card-2 .emoji2 {
+  font-size: 52px;
+  margin-bottom: 15px;
+  transition: transform 0.4s ease;
+  height: 70%;
+  width: 230px;
+  border-radius: 100px;
+}
+.container .card-2:hover .emoji2 {
+  transform: rotate(8deg) scale(1.15);
+}
+
+.container h2{
+  position: absolute;
+  color: #1F2A44;
+  font-size: 35px;
+   top: 8%;            /* value kam/badha sakti ho */
+  margin: 0;
+  font-style: italic;
+}
+ .container .card-2 button {
+  background-color: #C3AED6;
+  color: #1F2A44;
+  border: none;
+  padding: 10px 24px;
+  border-radius: 25px;
+  font-size: 15px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-style: italic;
+  font-weight: bolder;
+}
+
+/* Button hover */
+ .container .card-2 button:hover {
+  background-color: #1F2A44;
+  color: #FFFFFF;
+}
+
+/*--card-3-*/
+.container .card-3{
+  width: 230px;
+  height: 400px;
+  padding: 30px;
+ background: rgba(210, 195, 235, 0.55);
+  backdrop-filter: blur(10px);
+  border-radius: 22px;
+  text-align: center;
+  box-shadow: 0 10px 25px rgba(0,0, 0,0.12);
+  transition: all 0.4s ease;
+}
+ .container .card-3:hover{
+  transform: translateY(-12px) scale(1.03);
+   box-shadow: 0 20px 40px rgba(90, 160, 255, 0.35);
+}
+.container .card-3 .emoji3 {
+  font-size: 52px;
+  margin-bottom: 15px;
+  transition: transform 0.4s ease;
+  height: 70%;
+  width: 230px;
+  border-radius: 100px;
+}
+.container .card-3:hover .emoji3 {
+  transform: rotate(8deg) scale(1.15);
+}
+
+.container h2{
+  position: absolute;
+  color: #1F2A44;
+  font-size: 35px;
+   top: 8%;            /* value kam/badha sakti ho */
+  margin: 0;
+  font-style: italic;
+}
+ .container .card-3 button {
+  background-color: #C3AED6;
+  color: #1F2A44;
+  border: none;
+  padding: 10px 24px;
+  border-radius: 25px;
+  font-size: 15px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-style: italic;
+  font-weight: bolder;
+}
+
+/* Button hover */
+ .container .card-3 button:hover {
+  background-color: #1F2A44;
+  color: #FFFFFF;
+}
+
+/* -- card-4--*/
+.container .card-4{
+  width: 230px;
+  height: 400px;
+  padding: 30px;
+ background: rgba(210, 195, 235, 0.55);
+  backdrop-filter: blur(10px);
+  border-radius: 22px;
+  text-align: center;
+  box-shadow: 0 10px 25px rgba(0,0, 0,0.12);
+  transition: all 0.4s ease;
+}
+ .container .card-4:hover{
+  transform: translateY(-12px) scale(1.03);
+   box-shadow: 0 20px 40px rgba(90, 160, 255, 0.35);
+}
+.container .card-4 .emoji4 {
+  font-size: 52px;
+  margin-bottom: 15px;
+  transition: transform 0.4s ease;
+  height: 70%;
+  width: 230px;
+  border-radius: 100px;
+}
+.container .card-4:hover .emoji4 {
+  transform: rotate(8deg) scale(1.15);
+}
+
+.container h2{
+  position: absolute;
+  color: #1F2A44;
+  font-size: 35px;
+   top: 8%;            /* value kam/badha sakti ho */
+  margin: 0;
+  font-style: italic;
+}
+.container .H2{
+  position: absolute;
+  color: #424f6d;
+  font-size: 23px;
+  font-style: italic;
+   top: 88%; 
+   text-shadow: 0 4px 10px rgba(0,0,0,0.6);
+}
+ .container .card-4 button {
+  background-color: #C3AED6;
+  color: #1F2A44;
+  border: none;
+  padding: 10px 24px;
+  border-radius: 25px;
+  font-size: 15px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-style: italic;
+  font-weight: bolder;
+}
+
+/* Button hover */
+ .container .card-4 button:hover {
+  background-color: #1F2A44;
+  color: #FFFFFF;
+}
+
+ /*-------- happy  page----*/
+.blank-page {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #eef6fff5;
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+  position: relative;
+}
+.blank-page h2{
+  font-size: xx-large;
+  font-style: italic;
+  color: #1F2A44;
+}
+
+/* Card container */
+.page1 {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+  margin-top: 7%;
+  position: absolute;
+}
+
+/* Individual card */
+.card {
+  width: 230px;
+  height: 300px;
+  padding: 20px;
+  background: rgba(210, 195, 235, 0.55);
+  backdrop-filter: blur(12px);
+  border-radius: 22px;
+  text-align: center;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.12);
+  transition: all 0.4s ease;
+  cursor: pointer;
+  
+}
+
+/* Hover effect */
+.card:hover {
+  transform: translateY(-12px) scale(1.03);
+  box-shadow: 0 20px 40px rgba(90, 160, 255, 0.35);
+}
+
+/* Recipe image */
+.i1 {
+  width: 100%;
+  height: 170px;
+  object-fit: cover;
+  border-radius: 16px;
+  margin-bottom: 15px;
+  transition: transform 0.4s ease;
+}
+
+/* Image zoom on hover */
+.card:hover .i1 {
+  transform: scale(1.08);
+}
+
+/* Title */
+.card h3 {
+  font-size: 18px;
+  color: #1F2A44;
+  margin: 10px 0 6px;
+}
+
+/* Time / subtitle */
+.card h2 {
+  font-size: 14px;
+  color: #5c6b82;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+
+/* Button */
+.card button {
+  padding: 8px 18px;
+  border: none;
+  border-radius: 20px;
+  background: linear-gradient(135deg, #6a8dff, #9f7aea);
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.card button:hover {
+  background: linear-gradient(135deg, #5677ff, #8b5cf6);
+}
+.outer-div{
+  position: relative;
+  min-height: 500px;
+  padding: 20px;
+  display: flex;
+
+}
+.outer-div img{
+  width: 850px;
+  height: 500px;
+}
+.content-box{
+  padding-left: 50px;
+  margin-top: 20px;
+}
+.ingredient-table{
+  margin-top: 20px;
+  border-collapse:collapse;
+  border-spacing: 0 12px; /* har row k bich gap*/
+  width: 500px;
+  height:360px;
+
+}
+.ingredient-table td{
+  padding: 6px 0;
+  font-size: 17px;
+}
+.blue{
+  margin-right: 10px;
+  margin-bottom: 15px;
+  padding: 8px 14px;
+  background-color: blue ;
+  cursor: pointer;
+}
+.green{
+  margin-right: 10px;
+  margin-bottom: 15px;
+  padding: 8px 14px;
+  background-color:green ;
+    cursor: pointer;
+}
