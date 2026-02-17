@@ -30,7 +30,7 @@ This project demonstrates dynamic UI rendering, component-based architecture, an
 
 ### 🏠 Home Page
 ![Home Screenshot1](https://github.com/code-with-ujala/Mood-Based-Recipe-Book---App/blob/a44d1dd9c1418d76d0bdef152181c1aac91264c7/home.p1.png)
-![Home Screenshot2](https://github.com/code-with-ujala/Mood-Based-Recipe-Book---App/blob/ab554f465325449c02b94f6d2f9ca54ba1bfa62d/home2.png.png)
+![Home Screenshot2](https://github.com/code-with-ujala/Mood-Based-Recipe-Book---App/blob/8a390dad810b87d39d3a40a2b4960a9025217b2a/home.p2.png)
 
 
 ### 😊 Happy Mood Recipes
@@ -109,6 +109,7 @@ LinkedIn: (www.linkedin.com/in/ujala-chinchakhede-2182a9304)
 ---
 
 ⭐ If you like this project, feel free to star the repository!
+
 
 
 
