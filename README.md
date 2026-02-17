@@ -31,22 +31,21 @@ This project demonstrates dynamic UI rendering, component-based architecture, an
 ### 🏠 Home Page
 ![Home Screenshot1](https://github.com/code-with-ujala/Mood-Based-Recipe-Book---App/blob/a44d1dd9c1418d76d0bdef152181c1aac91264c7/home.p1.png)
 ![Home Screenshot2](https://github.com/code-with-ujala/Mood-Based-Recipe-Book---App/blob/8a390dad810b87d39d3a40a2b4960a9025217b2a/home.p2.png)
-
-### Mood Select
-![MoodSelect Screenshot](https://github.com/code-with-ujala/Mood-Based-Recipe-Book---App/blob/c9e2c2dd780890c5cfef924a4ab2274314c5b521/moodSelect.page.png)
+![Home Screenshot](https://github.com/code-with-ujala/Mood-Based-Recipe-Book---App/blob/c9e2c2dd780890c5cfef924a4ab2274314c5b521/moodSelect.page.png)
 
 
 ### 😊 Happy Mood Recipes
-![Happy Screenshot](./screenshots/happy.png)
+![Happy Screenshot](https://github.com/code-with-ujala/Mood-Based-Recipe-Book---App/blob/19b99e8e5a3eb43e635997f18ad43e7e5fe2bfbf/happyrecipe.page.png)
+![Happy Screenshot](https://github.com/code-with-ujala/Mood-Based-Recipe-Book---App/blob/19b99e8e5a3eb43e635997f18ad43e7e5fe2bfbf/happyrecipeDetail.page.png)
 
 ### 😢 Sad Mood Recipes
-![Sad Screenshot](./screenshots/sad.png)
+![Sad Screenshot](https://github.com/code-with-ujala/Mood-Based-Recipe-Book---App/blob/19b99e8e5a3eb43e635997f18ad43e7e5fe2bfbf/sadrecipe.page.png)
 
 ### ⚡ Energetic Mood Recipes
-![Energetic Screenshot](./screenshots/energetic.png)
+![Energetic Screenshot](https://github.com/code-with-ujala/Mood-Based-Recipe-Book---App/blob/19b99e8e5a3eb43e635997f18ad43e7e5fe2bfbf/EnergrticRecipe.Page.png)
 
 ### 😌 Tired Mood Recipes
-![Relaxed Screenshot](./screenshots/relaxed.png)
+![Relaxed Screenshot](https://github.com/code-with-ujala/Mood-Based-Recipe-Book---App/blob/19b99e8e5a3eb43e635997f18ad43e7e5fe2bfbf/tiredRecipe.page.png)
 
 
 ## 🛠️ Tech Stack:
@@ -112,6 +111,7 @@ LinkedIn: (www.linkedin.com/in/ujala-chinchakhede-2182a9304)
 ---
 
 ⭐ If you like this project, feel free to star the repository!
+
 
 
 
